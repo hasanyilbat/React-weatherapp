@@ -1,8 +1,8 @@
 import "./App.css";
-import Card from "./components/Card/Card";
+import WheatherInfo from "./components/WheatherInfo";
 
 function App() {
-  return <Card />;
+  return <WheatherInfo />;
 }
 
 export default App;
